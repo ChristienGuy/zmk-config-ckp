@@ -30,7 +30,7 @@
 		raise {
 			bindings = <
 				&kp ESC &kp F1 &kp F2 &kp F3 &kp F4 &kp F5 &kp F6 &kp F7 &kp F8 &kp F9 &kp F10 &kp F11 &kp F12 &bl BL_TOG &rgb_ug RGB_TOG
-				&trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &out OUT_TOG &rgb_ug RGB_HUI
+				&trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &out OUT_TOG &reset &rgb_ug RGB_HUI
 				&trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &kp C_PP &trans &bootloader &rgb_ug RGB_HUD
 				&kp C_PREV &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &kp C_VOLUME_UP &bl BL_INC
 				&bt BT_PRV &bt BT_NXT &trans          &trans            &trans &trans &trans &kp C_PREV &kp C_VOLUME_DOWN &kp C_NEXT
